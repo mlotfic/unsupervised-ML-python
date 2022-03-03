@@ -1,4 +1,12 @@
 # Unsupervised ML Techniques in python
+
+## Introduction:
+1- All your variables are numeric: use principal component analysis (PCA)
+2- You have a contingency table: use correspondence analysis (CA)
+3- You have more than 2 variables and they are all categorical: use multiple correspondence analysis (MCA)
+4- You have groups of categorical or numerical variables: use multiple factor analysis (MFA)
+5- You have both categorical and numerical variables: use factor analysis of mixed data (FAMD)
+
 ## Usful Information 
 #### Contingency Table:
 - A contingency table is a tabular representation of categorical data.
