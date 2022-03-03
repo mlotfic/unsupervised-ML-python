@@ -1,4 +1,4 @@
-# Multiple Unsupervised ML Techiques in python
+# Multiple Unsupervised ML Techniques in python
 ## Usful Information 
 #### Contingency Table:
 - A contingency table is a tabular representation of categorical data.
