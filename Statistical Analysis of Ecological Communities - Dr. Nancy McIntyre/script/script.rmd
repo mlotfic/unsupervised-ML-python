@@ -1,0 +1,12 @@
+
+
+```{r}
+library(labdsv)
+library(MASS)
+library(MVA)
+library(optpart)
+library(picante)
+library(stats)
+library(vegan)
+```
+
